@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://probuilderoffical.github.io/fitnessevolution/sitemap.xml
